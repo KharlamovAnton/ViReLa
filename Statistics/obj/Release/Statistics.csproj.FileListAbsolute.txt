@@ -1,0 +1,5 @@
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Release\Statistics.exe.config
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Release\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Release\Statistics.pdb
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\obj\Release\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\obj\Release\Statistics.pdb

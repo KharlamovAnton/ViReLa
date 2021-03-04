@@ -1,0 +1,15 @@
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\ViReLa_Server.exe.config
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\ViReLa_Server.exe.manifest
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\ViReLa_Server.application
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\ViReLa_Server.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\ViReLa_Server.pdb
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\EntityFramework.dll
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\SgmlReaderDll.dll
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\EntityFramework.xml
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\obj\Release\ViReLa_Server.exe.manifest
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\obj\Release\ViReLa_Server.application
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\obj\Release\ViReLa_Server.csproj.CopyComplete
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\obj\Release\ViReLa_Server.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\ViReLa_Server\obj\Release\ViReLa_Server.pdb

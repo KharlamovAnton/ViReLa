@@ -1,0 +1,186 @@
+Ср 29.01.20 21:34:
+System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в ViReLa.GeneralFunctions.WorkServer() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 64
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 31
+Ср 29.01.20 21:36:
+System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в ViReLa.GeneralFunctions.WorkServer() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 61
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 31
+Ср 29.01.20 21:36:
+System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в ViReLa.GeneralFunctions.WorkServer() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 61
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 31
+Ср 29.01.20 21:38:
+System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в ViReLa.GeneralFunctions.WorkServer() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 61
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 31
+Ср 29.01.20 21:52:
+System.Xml.XmlException: "\" не является допустимым маркером. Ожидается маркер """ или "'"., строка 79, позиция 24.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 21:52:
+System.Xml.XmlException: "\" не является допустимым маркером. Ожидается маркер """ или "'"., строка 79, позиция 24.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 21:53:
+System.Xml.XmlException: "\" не является допустимым маркером. Ожидается маркер """ или "'"., строка 79, позиция 24.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 21:53:
+System.Xml.XmlException: "\" не является допустимым маркером. Ожидается маркер """ или "'"., строка 79, позиция 24.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 21:54:
+System.Xml.XmlException: "\" не является допустимым маркером. Ожидается маркер """ или "'"., строка 79, позиция 24.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 22:07:
+System.Xml.XmlException: ">" не является допустимым маркером. Ожидается маркер "="., строка 79, позиция 23.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 22:08:
+System.Xml.XmlException: ">" не является допустимым маркером. Ожидается маркер "="., строка 79, позиция 23.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 22:09:
+System.Xml.XmlException: ">" не является допустимым маркером. Ожидается маркер "="., строка 79, позиция 23.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27
+Ср 29.01.20 22:10:
+System.Xml.XmlException: ">" не является допустимым маркером. Ожидается маркер "="., строка 79, позиция 23.
+   в System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   в System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   в System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   в System.Xml.XmlTextReaderImpl.ParseAttributes()
+   в System.Xml.XmlTextReaderImpl.ParseElement()
+   в System.Xml.XmlTextReaderImpl.ParseElementContent()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   в System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.ReadElementFrom(XmlReader r, LoadOptions o)
+   в System.Xml.Linq.XElement.Load(XmlReader reader, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text, LoadOptions options)
+   в System.Xml.Linq.XElement.Parse(String text)
+   в ViReLa.DbContextViReLa.FillStandart() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\DataBase\Setup.cs:строка 158
+   в ViReLa.GeneralFunctions.CreateDataBase() в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Work\GeneralFunctions.cs:строка 34
+   в ViReLa.Program.Main(String[] args) в C:\Users\Kharlamov\Google Диск\!Диплом\code\ViReLa_Server\Program.cs:строка 27

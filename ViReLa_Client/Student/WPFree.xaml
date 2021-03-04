@@ -1,0 +1,14 @@
+﻿<Window x:Class="ViReLa_Client.Student.WPFree"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViReLa_Client.Student"
+        mc:Ignorable="d"
+        Title="WPFree" Height="846.798" Width="1552.473" Name="windowWPFree" Closed="windowWPFree_Closed">
+    <Grid x:Name="gMain">
+        <WrapPanel HorizontalAlignment="Left" Height="85" Margin="10,10,0,0" VerticalAlignment="Top" Width="1124" Name="wpTypeProcess"/>
+        <Grid HorizontalAlignment="Left" Height="707" Margin="10,100,0,0" VerticalAlignment="Top" Width="1526" RenderTransformOrigin="0.506,0.549" Name="gDataResult">
+        </Grid>
+    </Grid>
+</Window>

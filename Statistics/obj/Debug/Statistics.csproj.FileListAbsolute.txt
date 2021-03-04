@@ -1,0 +1,12 @@
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\bin\Debug\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\obj\Debug\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\obj\Debug\Statistics.pdb
+C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\obj\Debug\Statistics.csprojAssemblyReference.cache
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Debug\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\obj\Debug\Statistics.csprojAssemblyReference.cache
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\obj\Debug\Statistics.exe
+C:\Users\Kharlamov\Google Диск\!Диплом\Код\Statistics\obj\Debug\Statistics.pdb

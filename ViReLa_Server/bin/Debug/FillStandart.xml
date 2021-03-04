@@ -1,0 +1,248 @@
+<root>
+	<standart>
+	<Role>
+		<element>
+			<id>0</id>
+			<name>admin</name>
+		</element>
+		<element>
+			<id>1</id>
+			<name>student</name>
+		</element>
+	</Role>
+	<Specialty>
+			<element>
+			<id>0</id>
+			<name></name>
+			<info></info>
+		</element>
+		<element>
+			<id>1</id>
+			<name>Программист</name>
+			<info>09.03.03 Программист техник</info>
+		</element>
+		<element>
+			<id>2</id>
+			<name>Экономист</name>
+			<info>02.03.03 Экономист для специальных экономических зон</info>
+		</element>
+	</Specialty>
+	<Group>
+	<element>
+			<id>0</id>
+			<name>Admin</name>
+			<specialty_id>0</specialty_id>
+		</element>
+		<element>
+			<id>1</id>
+			<name>405</name>
+			<specialty_id>1</specialty_id>
+		</element>
+		<element>
+			<id>2</id>
+			<name>Э305</name>
+			<specialty_id>2</specialty_id>
+		</element>
+	</Group>
+	<User>
+			<element>
+			<id>0</id>
+			<nameS>Преподаватель Мария</nameS>
+			<nameF>Мария Дмитриевна</nameF>
+			<role_id>0</role_id>
+			<group_id>0</group_id>
+			<password_id>0</password_id>
+		</element>
+		<element>
+			<id>2</id>
+			<nameS>Антон</nameS>
+			<nameF>Харламов Антон Витальевич</nameF>
+			<role_id>1</role_id>
+			<group_id>1</group_id>
+			<password_id>1</password_id>
+		</element>
+		<element>
+			<id>1</id>
+			<nameS>Юлия</nameS>
+			<nameF>Дегтярёва Юлия Викторовна</nameF>
+			<role_id>1</role_id>
+			<group_id>2</group_id>
+			<password_id>2</password_id>
+		</element>
+	</User>
+	
+	<SchemeDR>
+		<element>
+			<id>0</id>
+			<dataScheme>
+				<standart>
+					<Label>Доля бракованной продукции в 1 партии изделий составила 1%, во 2 партии - 1,5%, а в третьей - 2%. Первая партия составляет 35% всей продукции, вторая - 40%. Определить средний процент бракованной продукции.</Label>
+					<Label>Введите значения через точку запятой в поля</Label>
+					<Label>Доля бракованной продукции, %</Label>
+					<TextBox></TextBox>
+					<Label>Удельный вес каждой партии в общем объеме продукции</Label>
+					<TextBox></TextBox>
+				</standart>
+			</dataScheme>
+			<resultScheme>
+				<standart>
+					<Result></Result>
+				</standart>
+			</resultScheme>
+		</element>
+		<element>
+			<id>1</id>
+			<dataScheme>
+				<standart>
+					<Label>Вопрос 1. Сплошной цилиндр массы m катится без скольжения со скоростью v. Какова его кинетическая энергия? (Момент инерции цилиндра 1/2mR2, где R – радиус цилиндра).</Label>
+					<ComboBox>
+						<ComboBoxItem>а) 5/4</ComboBoxItem>
+						<ComboBoxItem>б) 4/5</ComboBoxItem>
+						<ComboBoxItem>в) 3/4</ComboBoxItem>
+						<ComboBoxItem>г) 7/10</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 2. Камень массой m=2 кг бросили под углом α=60o к горизонту со скоростью v0=15 м/с. Найти кинетическую энергию камня в высшей точке траектории. Сопротивлением воздуха пренебречь.</Label>
+					<ComboBox>
+						<ComboBoxItem>а) 56 Дж</ComboBoxItem>
+						<ComboBoxItem>б) 225 Дж</ComboBoxItem>
+						<ComboBoxItem>в) 118 Дж</ComboBoxItem>
+						<ComboBoxItem>г) 550 Дж</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 3. Кинетическая энергия частицы равна удвоенной энергии покоя. Определить скорость частицы</Label>
+					<ComboBox>
+						<ComboBoxItem>а) 0,87 с</ComboBoxItem>
+						<ComboBoxItem>б) 0,94 с</ComboBoxItem>
+						<ComboBoxItem>в) 1,2 с</ComboBoxItem>
+						<ComboBoxItem>г) 0,5 с</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 4. При каком процессе увеличение абсолютной температуры идеального газа в два раза приводит к увеличению давления газа в 2 раза?</Label>
+					<ComboBox>
+						<ComboBoxItem>а) изобарном</ComboBoxItem>
+						<ComboBoxItem>б) изохорном</ComboBoxItem>
+						<ComboBoxItem>в) изотермическом</ComboBoxItem>
+						<ComboBoxItem>г) адиабатном</ComboBoxItem>
+					</ComboBox>
+				</standart>
+			</dataScheme>
+			<resultScheme>
+				<standart>
+					<Label>Вопрос 1. Сплошной цилиндр массы m катится без скольжения со скоростью v. Какова его кинетическая энергия? (Момент инерции цилиндра 1/2mR2, где R – радиус цилиндра).</Label>
+					<ComboBox>
+						<ComboBoxItem>в) 3/4</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 2. Камень массой m=2 кг бросили под углом α=60o к горизонту со скоростью v0=15 м/с. Найти кинетическую энергию камня в высшей точке траектории. Сопротивлением воздуха пренебречь.</Label>
+					<ComboBox>
+						<ComboBoxItem>а) 56 Дж</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 3. Кинетическая энергия частицы равна удвоенной энергии покоя. Определить скорость частицы</Label>
+					<ComboBox>
+						<ComboBoxItem>а) 0,87 с</ComboBoxItem>
+					</ComboBox>
+					<Label>Вопрос 4. При каком процессе увеличение абсолютной температуры идеального газа в два раза приводит к увеличению давления газа в 2 раза?</Label>
+					<ComboBox>
+						<ComboBoxItem>б) изохорном</ComboBoxItem>
+					</ComboBox>
+				</standart>
+			</resultScheme>
+		</element>
+	</SchemeDR>
+	
+	<PathToAppForProcess>
+		<element>
+			<id>0</id>
+			<path>C:\Users\Kharlamov\Google Диск\!Диплом\code\Statistics\bin\Debug\Statistics.exe</path>
+			<version>1</version>
+			<info>Приложение1</info>
+			<scheme_id>0</scheme_id>
+		</element>
+		<element>
+			<id>1</id>
+			<path></path>
+			<version>2</version>
+			<info>Тест по физике</info>
+			<scheme_id>1</scheme_id>
+		</element>
+	</PathToAppForProcess>
+
+	<ViewProcess>
+		<element>
+			<id>0</id>
+			<name>Тест</name>
+			<info>Тест с вопросами и ответами</info>
+		</element>
+		<element>
+			<id>1</id>
+			<name>Эксперимент</name>
+			<info>Описание</info>
+		</element>
+		<element>
+			<id>2</id>
+			<name>Исследование</name>
+			<info>Описание</info>
+		</element>
+	</ViewProcess>
+	
+	<SubjectArea>
+		<element>
+			<id>0</id>
+			<name>Статистика</name>
+		</element>
+		<element>
+			<id>1</id>
+			<name>Физика</name>
+		</element>
+	</SubjectArea>
+	
+	<TypeProcess>
+		<element>
+			<id>0</id>
+			<name>Доля бракованной продукции</name>
+			<pathToAppForProcess_id>0</pathToAppForProcess_id>
+			<subjectArea_id>0</subjectArea_id>
+			<viewProcess_id>1</viewProcess_id>
+		</element>
+		<element>
+			<id>1</id>
+			<name>Тест Физика</name>
+			<pathToAppForProcess_id>1</pathToAppForProcess_id>
+			<subjectArea_id>1</subjectArea_id>
+			<viewProcess_id>0</viewProcess_id>
+		</element>
+	</TypeProcess>
+	
+	<ListProcess>
+		<element>
+			<id>0</id>
+			<initiator_id>2</initiator_id>
+			<data>
+				<standart>
+					<Label>Доля бракованной продукции в 1 партии изделий составила 1%, во 2 партии - 1,5%, а в третьей - 2%. Первая партия составляет 35% всей продукции, вторая - 40%. Определить средний процент бракованной продукции.</Label>
+					<Label>Введите значения через точку запятой в поля</Label>
+					<Label>Доля бракованной продукции, %</Label>
+					<TextBox>1;1,5;2</TextBox>
+					<Label>Удельный вес каждой партии в общем объеме продукции</Label>
+					<TextBox>0,35;0,40;0,25</TextBox>
+				</standart>
+			</data>
+			<result></result>
+			<typeProcess_id>0</typeProcess_id>
+		</element>
+	</ListProcess>
+	
+	<Password>
+		<element>
+			<id>0</id>
+			<password>12345</password>
+		</element>
+		<element>
+			<id>1</id>
+			<password>12345</password>
+		</element>
+		<element>
+			<id>2</id>
+			<password>12345</password>
+		</element>
+	</Password>
+	
+	</standart>
+</root>
